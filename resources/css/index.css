@@ -1,0 +1,22 @@
+.banner {
+    background-color:lightcyan;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding:100px 0;
+
+}
+
+#logo {
+    height:300px;
+    width:300px;
+}
+
+.About {
+    text-align: center;
+}   
+
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
